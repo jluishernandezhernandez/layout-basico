@@ -1,0 +1,11 @@
+li {
+
+ list-style: none;
+}
+
+.bola_fija{
+    position:fixed;
+	top:30px;
+	right:30px;
+
+}
